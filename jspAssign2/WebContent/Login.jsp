@@ -9,14 +9,15 @@
 <body>
 <center><form action="LoginServlet" method="post">
 <table>
-<tr><td colpsan="2" >LOGIN FORM</td>
+<tr><td colpsan="2" align="center">LOGIN FORM</td>
 </tr>
 <tr>
 <td>Username</td>
 <td><input type="text" name="username" id="user"></tr>
 <tr><td>password</td>
 <td><input type="password" name="pass" id="password"></td></tr>
-<tr><td coslpan="2" align="center"><input type="submit" value="login" name="login"></td></tr></table></form>
+<tr><td coslpan="2" align="center"><input type="submit" value="login" name="login">
+</td></tr></table></form>
 </center>
 </body>
 </html>
